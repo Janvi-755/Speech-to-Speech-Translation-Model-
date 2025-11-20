@@ -1,0 +1,13 @@
+Preprocessed Dataset
+
+This folder contains the preprocessed data for AI-powered Speech Translation project.
+
+It includes:
+- Preprocessed audio files
+- Extracted feature files
+- Preprocessed metadata
+- Source code used for preprocessing
+
+Download the dataset:
+
+https://drive.google.com/file/d/1xAbWsUlOc2b8_w82Dwsi7cypkK8j3S8s/view?usp=sharing
